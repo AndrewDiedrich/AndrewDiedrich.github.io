@@ -1,23 +1,80 @@
-* {
-  font-family: sans-serif;
+body {
+  font-family: 'Raleway', sans-serif;
 }
-header {
-  text-align: center;
+.navigation {
+  background-image: url("images/IMG_1284.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  height: 300px;
+  width: auto;
+  margin: 0 auto;
 }
-a {
+.navigation ul {
   text-align: center;
-  font-size: 25px;
+  margin: 0 auto;
+  padding: 5px;
+}
+.navigation li {
+  font-weight: 50;
+  letter-spacing: 2px;
+  padding: 20px;
+  color: white;
+}
+.navigation p {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 4px;
+  padding-top: 140px;
+  text-align: center;
+
+}
+li {
+  text-align: center;
+  font-size: 16px;
+  color: white;
 }
 p {
   text-align: center;
 }
-h1 {
-  font-size: 120px;
-  color: black;
+.ass div{
+  background-image: url("images/IMG_1267.JPG");
+  background-size: cover;
+  background-position: bottom center;
+  height: 100%;
+  width: 800px;
+  margin: 0 auto;
   opacity: .8;
-  text-align: center;
 }
-.imgcontent  {
+.ass {
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
   width: 400px;
-  height: auto;
+  margin: 0 auto;
+}
+
+.ass a {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.ass a:hover {
+  background: white;
+  border: 1px solid red;
+  color: red;
+}
+.copyright p {
+  font-family: 'Raleway', sans-serif;
+  opacity: .1;
+  border: 1px solid red;
+  color: red;
+  width: 200px;
+  margin: 0 auto;
 }
