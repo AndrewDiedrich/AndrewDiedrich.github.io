@@ -11,3 +11,7 @@ h1 {
   opacity: .8;
   text-align: center;
 }
+.imgcontent  {
+  width: 400px;
+  height: auto;
+}
