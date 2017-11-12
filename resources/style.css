@@ -1,12 +1,18 @@
+* {
+  font-family: sans-serif;
+}
 header {
   text-align: center;
+}
+a {
+  text-align: center;
+  font-size: 25px;
 }
 p {
   text-align: center;
 }
 h1 {
   font-size: 120px;
-  font-family: the hand bold;
   color: black;
   opacity: .8;
   text-align: center;
