@@ -72,7 +72,7 @@ p {
 }
 .copyright p {
   font-family: 'Raleway', sans-serif;
-  opacity: .1;
+  opacity: .3;
   border: 1px solid red;
   color: red;
   width: 200px;
