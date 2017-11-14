@@ -27,6 +27,11 @@ body {
   letter-spacing: 4px;
   padding-top: 140px;
   text-align: center;
+}
+.resume {
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 10px;
 
 }
 li {
@@ -37,24 +42,17 @@ li {
 p {
   text-align: center;
 }
-.ass div{
-  background-image: url("images/IMG_1267.JPG");
-  background-size: cover;
-  background-position: bottom center;
-  height: 100%;
-  width: 800px;
-  margin: 0 auto;
-  opacity: .8;
+
 }
-.ass {
-  padding: 40px 0px;
+.resume {
+  padding: 10px 0px;
   position: relative;
   text-align: center;
   width: 400px;
   margin: 0 auto;
 }
 
-.ass a {
+.resume a{
   background: red;
   border: 1px solid red;
   border-radius: 3px;
@@ -65,7 +63,7 @@ p {
   text-decoration: none;
 }
 
-.ass a:hover {
+.resume a:hover {
   background: white;
   border: 1px solid red;
   color: red;
